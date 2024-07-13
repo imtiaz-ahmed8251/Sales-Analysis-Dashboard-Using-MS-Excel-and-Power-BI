@@ -140,7 +140,7 @@ By implementing these recommendations and leveraging the insights gained, the bu
 ## Dashboard 
 The image above shows a sample sales dashboard displaying key metrics and trends extracted from the sales data analysis.
 
-![Sales Dashboard](Sales Dashboard.JPG) 
+![Sales Dashboard](Sales_Dashboard.JPG) 
 
 ## Limitations
 
